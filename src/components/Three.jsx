@@ -83,3 +83,5 @@ export default function EstucheConAsas({ title, escala, posicion }) {
     </>
   )
 }
+
+// prueba
